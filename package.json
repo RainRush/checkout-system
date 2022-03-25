@@ -1,4 +1,12 @@
 {
+  "name": "checkout-system",
+  "version": "1.0.0",
+  "repository": "",
+  "author": "Daniel Hu",
+  "private": true,
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
     "@types/node": "^17.0.23",
